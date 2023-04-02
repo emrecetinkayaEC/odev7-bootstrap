@@ -1,0 +1,22 @@
+.container a:hover {
+    text-decoration: none;
+}
+
+.bg-gray {
+    background-color: #E9ECEF;
+}
+
+ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li {
+    width: 150px;
+}
+
+img {
+    height: 300px;
+}
